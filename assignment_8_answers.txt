@@ -1,0 +1,14 @@
+1) Homo sapiens
+
+2) CFTR (Cystic Fibrosis Transmembrane Conductance Regulator)
+
+3) Rank 1 Target Sequence: CACCTGTGGTATCACTCCAAAGG
+Location: NM_000492
+
+4) Left primer: 5’- ACTGAAGGAGAAATCCAGATCG -3’
+Left primer coordinates: chr7:117282561-117282583
+
+Right primer: 5’- TGAGAAAACTGCACTGGAGAAA-3’
+Right primer coordinates: chr7:117282771-117282793
+
+5) result in the production of dehydrated mucus, impaired immunity, and subsequent chronic infections.
